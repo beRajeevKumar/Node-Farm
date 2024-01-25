@@ -6,7 +6,7 @@ This project serves as an illustrative example of a straightforward server-side 
 <img src="./Images/Overview.png"/>  
 </p>
 
-Click [here]() and visit the Node Farm.
+Click [here](https://rajeev-nodefarm.onrender.com/) and visit the Node Farm.
 
 ## Project Structure
 
@@ -78,10 +78,12 @@ Click [here]() and visit the Node Farm.
 
 - VS Code
 - Pretier
+- Slufify
+- Nodemon
 
 ## Useful Links
 
-- [Project Demo](https://kanban-task-management-rajeev.vercel.app/) for Web version
+- [Project Demo](https://rajeev-nodefarm.onrender.com/) for Web version
 
 - [Project Repository](https://github.com/beRajeevKumar/Node-Farm.git)
 
@@ -94,5 +96,3 @@ Feel free to contact me on [Twitter](https://twitter.com/be_rajeevkumar) or [Lin
 <hr>
 
 <h1 align=center>Happy Coding 👨‍💻</h1>
-
-<p align = "center">Show some ❤️&nbsp; by giving the star to this repo</p>
